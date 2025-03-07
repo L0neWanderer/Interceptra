@@ -1,0 +1,39 @@
+# Debug keystore
+*.keystore
+debug.keystore
+
+# Decompiled/Repackaged APKs
+*_patched.apk
+*_patched_zipaligned.apk
+*_zipaligned.apk
+
+# Extracted APK directories
+*/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Test APKs
+*.apk
